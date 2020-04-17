@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>SQL Practice</title>
+    <link href="https://tfowles.github.io/sqlpractice/feed.xml" rel="self" />
+    <link href="https://tfowles.github.io/sqlpractice" />
+    <updated>2020-04-16T22:04:15-06:00</updated>
+    <author>
+        <name>Tom Fowles</name>
+    </author>
+    <id>https://tfowles.github.io/sqlpractice</id>
+
+    <entry>
+        <title>Home Page</title>
+        <author>
+            <name>Tom Fowles</name>
+        </author>
+        <link href="https://tfowles.github.io/sqlpractice/home-page.html"/>
+        <id>https://tfowles.github.io/sqlpractice/home-page.html</id>
+
+        <updated>2020-04-16T21:53:34-06:00</updated>
+            <summary>
+                <![CDATA[
+                    Stub page
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                Stub page
+            ]]>
+        </content>
+    </entry>
+</feed>

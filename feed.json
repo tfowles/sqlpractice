@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "SQL Practice",
+    "description": "",
+    "home_page_url": "https://tfowles.github.io/sqlpractice",
+    "feed_url": "https://tfowles.github.io/sqlpractice/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Tom Fowles"
+    },
+    "items": [
+        {
+            "id": "https://tfowles.github.io/sqlpractice/home-page.html",
+            "url": "https://tfowles.github.io/sqlpractice/home-page.html",
+            "title": "Home Page",
+            "summary": "Stub page",
+            "content_html": "Stub page",
+            "author": {
+                "name": "Tom Fowles"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-04-16T21:53:34-06:00",
+            "date_modified": "2020-04-16T21:53:34-06:00"
+        }
+    ]
+}
